@@ -1,0 +1,23 @@
+str1="30 day 30 hour challenge"
+print(str1)
+days = "thirty"
+
+print(days[0])
+
+challenge="I will win"
+
+print(challenge[7:10])
+
+print("Length is "+len(challenge))
+
+print("Convert to lower case "+challenge.lower())
+
+text = "Thirty Days and Thirty Hours"
+
+x = text.casefold();
+
+print("Case Fold Demo"+x)
+
+print("Capital "+text.capitalize()+ " find "+text.find()+" is alpha"+text.isalpha()+ " is all num + text.isnumeric())
+
+
